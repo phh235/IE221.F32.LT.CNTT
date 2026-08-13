@@ -1,1 +1,1 @@
-print("Game package duoc goi.")
+print("Game package được gọi.")

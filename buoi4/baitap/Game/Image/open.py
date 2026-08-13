@@ -1,4 +1,4 @@
-print("Module Game.Image.open được go.")
+print("Module Game.Image.open được gọi.")
 
 
 def open_image():
